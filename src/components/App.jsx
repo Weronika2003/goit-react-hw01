@@ -25,3 +25,6 @@ export const App = () => {
   );
 };
 
+<BrowserRouter basename="/goit-react-hw01/">
+  <App />
+</BrowserRouter>
